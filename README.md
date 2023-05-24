@@ -1,6 +1,6 @@
 ## Hey, this is Maxwell Wong 👽
-![Icon ](icon.jpg)
-<img src="icon.jpg" style="zoom:50%;">
+<!-- ![Icon ](icon.jpg) -->
+<img src="icon.jpg" style="zoom:30%;">
 
 
 ### Motto

@@ -12,7 +12,8 @@
 |     2| Artifical Intelligence          |
 |     3| Brain Science       |
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Starting pursue my dream
+- [ ] First research paper published
+- [ ] Advanced violin player
+- [ ] No anxiety
 

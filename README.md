@@ -14,7 +14,7 @@
 
 | Rank | Realms    |
 |-----:|-----------|
-|     1| Human Future|
+|     1| The Future of Humanity          |
 |     2| Artifical Intelligence          |
 |     3| Brain Science       |
 

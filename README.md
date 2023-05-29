@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell-Wong&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Wong&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxwell-Wong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Focused realms

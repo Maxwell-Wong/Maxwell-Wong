@@ -19,7 +19,7 @@
 |     2| Artifical Intelligence          |
 |     3| Brain Science       |
 
-## Huge Goals
+## Goals
 - [x] Starting pursue my dream
 - [ ] First research paper published
 - [ ] Advanced violin player

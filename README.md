@@ -1,4 +1,6 @@
-## Hey, this is Maxwell Wong 👽
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+this+is+Maxwell+Wong!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<!-- ## Hey, this is Maxwell Wong 👽 -->
 <!-- ![Icon ](icon.jpg) -->
 <img src="icon2.jpg" style="zoom:30%;">
 

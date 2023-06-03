@@ -1,11 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+this+is+Maxwell+Wong!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<!-- my-ticker -->   
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hey%2C+this+is+Maxwell+Wong!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <!-- ## Hey, this is Maxwell Wong 👽 -->
 <!-- ![Icon ](icon.jpg) -->
 
 
 
-
+## Skill Stack
 <!--   my-skils -->
 
 | Property                                        | Data                                                         |

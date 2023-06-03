@@ -6,7 +6,7 @@
 <!-- ![Icon ](icon.jpg) -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BE6F7&background=2FE9FF00&center=true&vCenter=true&width=435&lines=Hey%2C+this+is+Maxwell+Wong!;Welcome+to+my+profile!;What+doesn't+kill+you+makes+you+stronger!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BE6F7&background=2FE9FF00&center=true&vCenter=true&width=600&lines=Hey%2C+this+is+Maxwell+Wong!;Welcome+to+my+profile!;What+doesn't+kill+you+makes+you+stronger!)](https://git.io/typing-svg)
 ## Skill Stack
 <!--   my-skils -->
 

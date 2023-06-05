@@ -20,7 +20,7 @@
 | **Frontend**                            | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 | **Machine Learning / Deep Learning frameworks** | ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squareflat-square&logo=PyTorch&logoColor=white)|
 
-
+![Snake animation](https://github.com/Maxwell-Wong/Maxwell-Wong/blob/output/github-contribution-grid-snake.svg)
 ## Motto
 ### What doesn't kill you makes you stronger
 

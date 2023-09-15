@@ -38,7 +38,7 @@
 
 ## Goals
 - [x] Starting pursue my dream
-- [ ] First research paper published
+- [x] First research paper published
 - [ ] Advanced violin player
 - [ ] No anxiety
 
